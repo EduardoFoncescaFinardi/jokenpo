@@ -27,4 +27,4 @@ git clone https://github.com/seu-usuario/jokenpo-azure.git
 cd jokenpo-azure
 
 
-
+asd
